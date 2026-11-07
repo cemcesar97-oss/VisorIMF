@@ -1,0 +1,6 @@
+{
+  "name": "WiseShips · SIA Inspections",
+  "description": "Plataforma empresarial de inspección en origen, control de calidad y visor de trazabilidad integrado en el ecosistema WiseShips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
